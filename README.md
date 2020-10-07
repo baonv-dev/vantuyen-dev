@@ -27,18 +27,17 @@
 <br />
 <br />
 
-Hi, I'm **vantuyen-dev/tuyendv** 😄, a developer 👨🏻‍💻 from VietNam vn . I'm an Developer and all things about realtime apps. Currently, I'm working on Game and Develivery App. Beside's development, I like Movies and sports 🏃.
+Hi, I'm **vantuyen-dev/tuyendv** 😄,  a programmer 👨🏻‍💻 from Vietnam. My main job is AI / Machine Learning research and I also develop applications. Besides programming, I love reading and sports 🏃.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
   **Here we go**
 
-  - 👨🏻‍💻 I’m currently working on Game Mobile App.
-  - 🌱 I’m currently learning MongoDb Express Android Nodejs 😁 and AppScript&GoogleSheets a some smarttv apps.
-  - 🤔 My research interests are with Locations Mobiles Systems, Android Mobile Security, etc.
-  - 💼 I’m looking fro MEng. degree or a position related System Engineering.
-  - 💬 Ask me about anything about apps & development & movies-tv, I would like to answer.
+  - 👨🏻‍💻 I am currently working at Bkav Corp.
+  - 🌱 I go to university in Hanoi. Areas I am interested in are Machine Learning 😁 and Data Science & some of their applications in life.
+  - 💼 I am looking for a master's degree, degree or a position related to Machine Learning.
+  - 💬 Ask me anything about apps, development, computer hardware and Machine Learning. Those are the topics I can answer.
  
 
 
